@@ -6,8 +6,8 @@ A guy with a keyboard and a passion for technical stuff.
 To see which landscape I wander the most explore my repos. 
 
 
-Currently under construction [Personal WebPage](benjamindegryse.be)
-Foodlovers check [here already](benjamindegryse.be/Recipes)
+Currently under construction [Personal WebPage](www/benjamindegryse.be)
+Foodlovers check [here already](www/benjamindegryse.be/Recipes)
 
 
 Here are some ideas to get you started:
