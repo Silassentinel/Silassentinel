@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on The webpage via the monorepo, via Turbo and NPM Spaces with VITE.js
 - 🌱 I’m currently learning Building a components react library to streamline design over all products.
-- 💬 Ask me about anything IT related I fell down the rebbithole more than once now.
+- 💬 Ask me about anything IT related I fell down the rabbithole more than once now.
 - 📫 How to reach me: Those who know, know else try a pr..?
 - ⚡ Fun fact: There is no better time to do anything than now.
