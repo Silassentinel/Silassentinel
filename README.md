@@ -1,9 +1,9 @@
 # Welcome to my gh-page
 
 
-A guy with a keyboard and a passion for technical stuff
+A guy with a keyboard and a passion for technical stuff.
 
-To see which landscape I wander the most explorer my repos. 
+To see which landscape I wander the most explore my repos. 
 
 
 Currently under construction [Personal WebPage](benjamindegryse.be)
