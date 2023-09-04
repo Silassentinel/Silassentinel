@@ -7,7 +7,7 @@ To see which landscape I wander the most explorer my repos.
 
 
 Currently under construction [Personal WebPage](benjamindegryse.be)
-[Foodlovers check here already](benjamindegryse.be/Recipes)
+Foodlovers check [here already](benjamindegryse.be/Recipes)
 
 
 Here are some ideas to get you started:
