@@ -6,8 +6,8 @@ A guy with a keyboard and a passion for technical stuff.
 To see which landscape I wander the most explore my repos. 
 
 
-Currently under construction [Personal WebPage](https://www.benjamindegryse.be)
-Foodlovers check [here already](https://www.benjamindegryse.be/Recipes)
+Currently under construction [Personal WebPage](https://www.benjamindegryse.be) Built with Astro
+Foodlovers check [here already](https://www.benjamindegryse.be/blog)
 
 
 You want 3 months free NordVPN 
